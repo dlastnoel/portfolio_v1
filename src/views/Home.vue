@@ -27,7 +27,7 @@
               <router-link to="/about" class="rounded px-2 py-3 outline-2 text-xl">About</router-link>
             </li>
             <li>
-              <a href="#" class="bg-white text-black rounded px-2 py-3 outline-2 text-xl">Let's Talk</a>
+              <a href="#" class="hidden md:block bg-white text-black rounded px-2 py-3 outline-2 text-xl">Let's Talk</a>
             </li>
           </ul>
         </div>
