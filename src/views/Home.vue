@@ -36,7 +36,7 @@
       <div class="h-full flex justify-center items-center flex-col gap-5">
         <img src="../assets/img/profile.jpg" alt="" class="h-[200px] rounded-full" srcset="">
         <div class="p-3 border-[4px] border-solid border-black rounded-md">
-          <h1 class="text-2xl md:text-4xl lg:text-6xl xl:text-8xl">Hi! I am Noel Xavier M. Ulpindo</h1>
+          <h1 class="text-2xl md:text-4xl lg:text-6xl xl:text-8xl text-center">Hi! I am Noel Xavier M. Ulpindo</h1>
         </div>
 
         <h3 class="text-2xl lg:text-4xl xl:text-6xl text-center bg-blue-500 text-white rounded px-2 py-3">
