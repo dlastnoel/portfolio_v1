@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'landing-page': "url('./src/assets/img/background.jpg')",
+        'landing-page': "url('../assets/img/background.jpg')",
       }
     },
   },
